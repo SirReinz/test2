@@ -375,7 +375,7 @@ Tabletdiscussion As screen:
             FocusedBorderThickness: =4
             Font: =Font.'Segoe UI'
             Size: =13
-            Text: ="test"
+            Text: =""
             X: =960
             Y: =439
             ZIndex: =21
