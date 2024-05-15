@@ -1283,19 +1283,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tabletdiscussion.'Hello,'.TabIndex"
+                  "fullyQualifiedName": "Tabletdiscussion.'Hello, 1_1'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Tabletdiscussion.'Hello,'.TabIndex",
+                  "fullyQualifiedName": "Tabletdiscussion.'Hello, 1_1'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Tabletdiscussion",
+                "type": "Tabletdiscussion.'Hello, 1_1'"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Tabletdiscussion.'Hello, 1_1'.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Tabletdiscussion.'Hello, 1_1'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Tabletdiscussion",
-                "type": "Tabletdiscussion.'Hello,'"
+                "type": "Tabletdiscussion.'Hello, 1_1'"
               }
             }
           ],
@@ -2393,19 +2423,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tabletproject.'Hello,_1'.TabIndex"
+                  "fullyQualifiedName": "Tabletproject.'Hello, 1_4'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Tabletproject.'Hello,_1'.TabIndex",
+                  "fullyQualifiedName": "Tabletproject.'Hello, 1_4'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Tabletproject",
+                "type": "Tabletproject.'Hello, 1_4'"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Tabletproject.'Hello, 1_4'.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Tabletproject.'Hello, 1_4'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Tabletproject",
-                "type": "Tabletproject.'Hello,_1'"
+                "type": "Tabletproject.'Hello, 1_4'"
               }
             }
           ],
@@ -3563,19 +3623,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tablettoolbox.'Hello,_3'.TabIndex"
+                  "fullyQualifiedName": "Tablettoolbox.'Hello, 1_2'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Tablettoolbox.'Hello,_3'.TabIndex",
+                  "fullyQualifiedName": "Tablettoolbox.'Hello, 1_2'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Tablettoolbox",
+                "type": "Tablettoolbox.'Hello, 1_2'"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Tablettoolbox.'Hello, 1_2'.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Tablettoolbox.'Hello, 1_2'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Tablettoolbox",
-                "type": "Tablettoolbox.'Hello,_3'"
+                "type": "Tablettoolbox.'Hello, 1_2'"
               }
             }
           ],
@@ -4523,19 +4613,49 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tabletwarehouse.'Hello,_2'.TabIndex"
+                  "fullyQualifiedName": "Tabletwarehouse.'Hello, 1_3'.AccessibleLabel"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Tabletwarehouse.'Hello,_2'.TabIndex",
+                  "fullyQualifiedName": "Tabletwarehouse.'Hello, 1_3'.AccessibleLabel",
+                  "relativeAddress": 0
+                }
+              },
+              "properties": {
+                "member": "AccessibleLabel",
+                "module": "Tabletwarehouse",
+                "type": "Tabletwarehouse.'Hello, 1_3'"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "Medium"
+          },
+          "ruleId": "acc-AccessibleLabelNeeded",
+          "ruleIndex": 4
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Tabletwarehouse.'Hello, 1_3'.TabIndex"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Tabletwarehouse.'Hello, 1_3'.TabIndex",
                   "relativeAddress": 0
                 }
               },
               "properties": {
                 "member": "TabIndex",
                 "module": "Tabletwarehouse",
-                "type": "Tabletwarehouse.'Hello,_2'"
+                "type": "Tabletwarehouse.'Hello, 1_3'"
               }
             }
           ],
