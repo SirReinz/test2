@@ -21,27 +21,6 @@ Tablettoolbox As screen:
         Y: =15.5
         ZIndex: =1
 
-    "'Hello,_3' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =95
-        LineHeight: =1.182231
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =60
-        Text: ="Hello,"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =187
-        X: =1488
-        Y: =39
-        ZIndex: =2
-
     "'Line 3 1_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -560,4 +539,21 @@ Tablettoolbox As screen:
         X: =1473
         Y: =124
         ZIndex: =26
+
+    "'Hello, 1_2' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =65
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image2733252
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =170
+        X: =1496
+        Y: =67
+        ZIndex: =27
 

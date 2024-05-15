@@ -381,27 +381,6 @@ Tabletwarehouse As screen:
         Y: =193
         ZIndex: =17
 
-    "'Hello,_2' As label":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        Color: =RGBA(0, 0, 0, 1)
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        FocusedBorderThickness: =4
-        Height: =95
-        LineHeight: =1.182231
-        PaddingBottom: =0
-        PaddingLeft: =0
-        PaddingRight: =0
-        PaddingTop: =0
-        Size: =60
-        Text: ="Hello,"
-        VerticalAlign: =VerticalAlign.Top
-        Width: =187
-        X: =1488
-        Y: =39
-        ZIndex: =18
-
     msft_Label_3 As label:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -502,4 +481,21 @@ Tabletwarehouse As screen:
         X: =831
         Y: =553
         ZIndex: =22
+
+    "'Hello, 1_3' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =65
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image2733252
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =170
+        X: =1496
+        Y: =67
+        ZIndex: =23
 
