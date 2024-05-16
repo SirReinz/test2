@@ -4639,7 +4639,7 @@
       "Properties": [
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"DiscussionTopic\"}",
+          "NameMap": "{\"Value\":\"ComplianceAssetId\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
