@@ -379,7 +379,7 @@ Tabletdiscussion As screen:
         Y: =364
         ZIndex: =4
 
-    msft_TextInput As text:
+    message_input As text:
         BorderColor: =RGBA(166, 166, 166, 1)
         BorderThickness: =2
         Color: =RGBA(166, 166, 166, 1)
@@ -421,6 +421,16 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
+        OnSelect: |-
+            =Patch(
+                'Discussion List',
+                Defaults('Discussion List'),
+                {
+                    User: username_input.Text,
+                    Message: message_input.Text,
+                    Time_sent: message_input.Text,
+                    Discussion_Topic: First(ListBox1.SelectedItems).Default
+                }
         PaddingBottom: =7
         PaddingLeft: =32
         PaddingRight: =32
@@ -671,7 +681,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.'Discussion Topic')
+        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
@@ -765,7 +775,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.'Discussion Topic')
+        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
@@ -796,7 +806,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.'Discussion Topic')
+        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
