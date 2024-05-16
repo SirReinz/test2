@@ -349,7 +349,7 @@
       "MetaDataIDKey": "",
       "Name": "Current project page 1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 0,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -591,7 +591,7 @@
       "MetaDataIDKey": "",
       "Name": "Ellipse 1_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 10,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -823,7 +823,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Go Back ➤_1": {
+    "Go Back ➤_7": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "AutoHeight",
@@ -834,7 +834,14 @@
         "DisabledColor",
         "DisplayMode",
         "Fill",
-        "Align",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "Align",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Color",
         "Font",
         "LineHeight",
@@ -869,7 +876,14 @@
         "Overflow",
         "FocusedBorderThickness",
         "HoverColor",
-        "HoverFill",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "HoverFill",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Live",
         "Wrap",
         "IsErrorMessage",
@@ -901,9 +915,9 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Go Back ➤_1",
+      "Name": "Go Back ➤_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1165,7 +1179,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "goBack_Button_1": {
+    "goBack_Button_7": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "BorderColor",
@@ -1197,7 +1211,14 @@
           "IsLockable": false,
           "NameMapSourceSchema": "?"
         },
-        "Align",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "Align",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Color",
         "Font",
         "Size",
@@ -1245,7 +1266,7 @@
         {
           "AFDDataSourceName": "",
           "AutoRuleBindingEnabled": false,
-          "AutoRuleBindingString": "ColorFade(RGBA(0, 120, 212, 1), -10%)",
+          "AutoRuleBindingString": "",
           "InvariantPropertyName": "HoverFill",
           "IsLockable": false,
           "NameMapSourceSchema": "?"
@@ -1283,9 +1304,9 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "goBack_Button_1",
+      "Name": "goBack_Button_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1537,7 +1558,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "goBack_Group_1": {
+    "goBack_Group_7": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "X",
@@ -1555,7 +1576,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "goBack_Group_1",
+      "Name": "goBack_Group_7",
       "OptimizeForDevices": "Off",
       "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
@@ -1993,7 +2014,7 @@
       "MetaDataIDKey": "",
       "Name": "Hello, 1_12",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 11,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2283,7 +2304,7 @@
       "MetaDataIDKey": "",
       "Name": "Image2_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 13,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2502,7 +2523,7 @@
       "MetaDataIDKey": "",
       "Name": "Line 3 (1) 1_4",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2854,7 +2875,7 @@
       "MetaDataIDKey": "",
       "Name": "logout_Button_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 14,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3170,7 +3191,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Button_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3486,7 +3507,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Button_9",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 9,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3804,7 +3825,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Checkbox",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4174,7 +4195,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Label_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 12,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4504,7 +4525,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_ListBox_3",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4842,7 +4863,7 @@
       "MetaDataIDKey": "",
       "Name": "Page",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5348,7 +5369,7 @@
       "MetaDataIDKey": "",
       "Name": "String-label",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
