@@ -146,7 +146,6 @@
     "Toolbox 1": 130,
     "Type_Dropdown": 117,
     "Use case_Dropdown": 122,
-    "username_input": 46,
     "warehouse": 140,
     "warehouse 1": 121,
     "Warehouse 1": 144,
@@ -156,7 +155,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "05/16/2024 01:41:30",
+  "HeaderLastSavedDateTimeUTC": "05/16/2024 01:41:42",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "ee01e1d5-5b48-4a53-995b-a5b29a9e68c2": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/00969b859d5144c082332e81566805a8\""
@@ -426,7 +425,6 @@
     "Toolbox 1": {},
     "Type_Dropdown": {},
     "Use case_Dropdown": {},
-    "username_input": {},
     "warehouse": {},
     "warehouse 1": {},
     "Warehouse 1": {},
@@ -581,7 +579,6 @@
     "Toolbox 1": 16,
     "Type_Dropdown": 52,
     "Use case_Dropdown": 57,
-    "username_input": 3,
     "warehouse": 26,
     "warehouse 1": 56,
     "Warehouse 1": 30,
