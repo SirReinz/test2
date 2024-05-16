@@ -716,15 +716,15 @@ Tabletdiscussion As screen:
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =144
+        Height: =92
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =Discussion
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =544
+        Width: =518
         X: =90
-        Y: =62
+        Y: =72
         ZIndex: =18
 
     goBack_Group As group:
@@ -751,7 +751,7 @@ Tabletdiscussion As screen:
             Size: =33.75
             Text: ="Go Back ➤"
             Width: =268
-            X: =81
+            X: =121
             Y: =184
             ZIndex: =16
 
@@ -784,7 +784,7 @@ Tabletdiscussion As screen:
             Size: =24
             Text: =
             Width: =244
-            X: =81
+            X: =121
             Y: =171
             ZIndex: =17
 
