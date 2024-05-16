@@ -656,7 +656,7 @@
       "StyleName": "defaultLabelStyle",
       "Type": "ControlInfo"
     },
-    "Ellipse 1_5": {
+    "Ellipse 1_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "BorderColor",
@@ -714,7 +714,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Ellipse 1_5",
+      "Name": "Ellipse 1_6",
       "OptimizeForDevices": "Off",
       "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
@@ -1356,7 +1356,7 @@
       "MetaDataIDKey": "",
       "Name": "Go Back ➤_3",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2334,7 +2334,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "headerRight_group_5": {
+    "headerRight_group_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "X",
@@ -2352,7 +2352,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "headerRight_group_5",
+      "Name": "headerRight_group_6",
       "OptimizeForDevices": "Off",
       "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
@@ -2386,7 +2386,7 @@
       "StyleName": "",
       "Type": "ControlInfo"
     },
-    "Hello, 1_9": {
+    "Hello, 1_10": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "BorderColor",
@@ -2444,7 +2444,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Hello, 1_9",
+      "Name": "Hello, 1_10",
       "OptimizeForDevices": "Off",
       "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
@@ -2678,7 +2678,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "Image2_5": {
+    "Image2_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         {
@@ -2691,7 +2691,14 @@
         },
         "ImagePosition",
         "ImageRotation",
-        "X",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "X",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Y",
         "Width",
         "Height",
@@ -2727,7 +2734,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "Image2_5",
+      "Name": "Image2_6",
       "OptimizeForDevices": "Off",
       "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
@@ -3800,7 +3807,7 @@
       "StyleName": "defaultImageStyle",
       "Type": "ControlInfo"
     },
-    "logout_Button_5": {
+    "logout_Button_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "BorderColor",
@@ -3918,9 +3925,9 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "logout_Button_5",
+      "Name": "logout_Button_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4172,7 +4179,7 @@
       "StyleName": "defaultButtonStyle",
       "Type": "ControlInfo"
     },
-    "msft_Label_5": {
+    "msft_Label_6": {
       "AllowAccessToGlobals": true,
       "ControlPropertyState": [
         "AutoHeight",
@@ -4278,7 +4285,7 @@
       "IsLocked": false,
       "LayoutName": "",
       "MetaDataIDKey": "",
-      "Name": "msft_Label_5",
+      "Name": "msft_Label_6",
       "OptimizeForDevices": "Off",
       "ParentIndex": 4,
       "PersistMetaDataIDKey": false,

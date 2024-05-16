@@ -293,21 +293,21 @@ Tabletselection As screen:
             Y: =171
             ZIndex: =21
 
-    headerRight_group_1 As group:
+    headerRight_group_8 As group:
         Height: =5
         Width: =5
         X: =40
         Y: =40
         ZIndex: =27
 
-        "'Ellipse 1_1' As image":
+        "'Ellipse 1_8' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =177
+            Height: =168
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image27181722
@@ -318,7 +318,7 @@ Tabletselection As screen:
             Y: =7
             ZIndex: =22
 
-        msft_Label_1 As label:
+        msft_Label_8 As label:
             Align: =Align.Right
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
@@ -328,7 +328,7 @@ Tabletselection As screen:
             FocusedBorderThickness: =4
             Font: =Font.Lato
             FontWeight: =FontWeight.Semibold
-            Height: =95
+            Height: =90
             Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
@@ -339,16 +339,16 @@ Tabletselection As screen:
             Text: =username
             Width: =435
             X: =1247
-            Y: =123
+            Y: =117
             ZIndex: =23
 
-        "'Hello, 1_5' As image":
+        "'Hello, 1_12' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image2733252
@@ -356,28 +356,28 @@ Tabletselection As screen:
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =170
             X: =1496
-            Y: =67
+            Y: =64
             ZIndex: =24
 
-        Image2_1 As image:
+        Image2_8 As image:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =Logout
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =175
-            X: =1726
-            Y: =181
+            X: =1710
+            Y: =172
             ZIndex: =25
 
-        logout_Button_1 As button:
+        logout_Button_8 As button:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =0
@@ -388,7 +388,7 @@ Tabletselection As screen:
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Semibold
-            Height: =50
+            Height: =47
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =RGBA(0, 0, 0, 0)
@@ -407,7 +407,7 @@ Tabletselection As screen:
             Size: =24
             Text: =
             Width: =182
-            X: =1722
-            Y: =184
+            X: =1702
+            Y: =175
             ZIndex: =26
 

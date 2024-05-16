@@ -1,9 +1,9 @@
-Tabletproject As screen:
+Tabletproject_1 As screen:
     Height: =911
     LoadingSpinnerColor: =RGBA(0, 120, 212, 1)
     Width: =1920
 
-    "'Rectangle 28' As image":
+    "'Rectangle 28_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -20,7 +20,7 @@ Tabletproject As screen:
         Y: =379.5
         ZIndex: =8
 
-    "'Rectangle 35' As rectangle":
+    "'Rectangle 35_1' As rectangle":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledFill: =RGBA(166, 166, 166, 1)
@@ -34,7 +34,7 @@ Tabletproject As screen:
         Y: =307
         ZIndex: =9
 
-    "'Auto Detected Progress' As label":
+    "'Auto Detected Progress_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -56,7 +56,7 @@ Tabletproject As screen:
         Y: =259.5
         ZIndex: =10
 
-    "'18% Completed 50% Expected' As label":
+    "'18% Completed 50% Expected_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -80,7 +80,7 @@ Tabletproject As screen:
         Y: =379.5
         ZIndex: =11
 
-    "'Estimated Delay: 3 days' As label":
+    "'Estimated Delay: 3 days_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -103,7 +103,7 @@ Tabletproject As screen:
         Y: =486.5
         ZIndex: =12
 
-    "'Next Task:' As label":
+    "'Next Task:_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -126,7 +126,7 @@ Tabletproject As screen:
         Y: =666.5
         ZIndex: =13
 
-    "'What would you like to do?' As label":
+    "'What would you like to do?_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -148,7 +148,7 @@ Tabletproject As screen:
         Y: =290.5
         ZIndex: =14
 
-    "'Fix errors before proceeding' As label":
+    "'Fix errors before proceeding_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(255, 0, 0, 1)
@@ -170,7 +170,7 @@ Tabletproject As screen:
         Y: =719.5
         ZIndex: =15
 
-    msft_Button_12 As button:
+    msft_Button_25 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =0
@@ -203,7 +203,7 @@ Tabletproject As screen:
         Y: =833
         ZIndex: =20
 
-    msft_Button_13 As button:
+    msft_Button_21 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =0
@@ -236,7 +236,7 @@ Tabletproject As screen:
         Y: =410
         ZIndex: =21
 
-    msft_Button_14 As button:
+    msft_Button_22 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =0
@@ -269,7 +269,7 @@ Tabletproject As screen:
         Y: =540
         ZIndex: =22
 
-    msft_Button_15 As button:
+    msft_Button_24 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =0
@@ -302,7 +302,7 @@ Tabletproject As screen:
         Y: =800
         ZIndex: =23
 
-    msft_Button_16 As button:
+    msft_Button_23 As button:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         BorderThickness: =0
@@ -335,7 +335,7 @@ Tabletproject As screen:
         Y: =670
         ZIndex: =24
 
-    msft_Slider As slider:
+    msft_Slider_1 As slider:
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Default: =0
@@ -353,11 +353,11 @@ Tabletproject As screen:
         ValueFill: =RGBA(102, 102, 102, 1)
         ValueHoverFill: =RGBA(0, 120, 212, 1)
         Width: =696
-        X: =75
-        Y: =312
+        X: =46
+        Y: =309
         ZIndex: =25
 
-    "'Robot Peter 1' As image":
+    "'Robot Peter 1_1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -374,7 +374,7 @@ Tabletproject As screen:
         Y: =83
         ZIndex: =27
 
-    "'Line 3 (1) 1_5' As image":
+    "'Line 3 (1) 1_8' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -390,7 +390,7 @@ Tabletproject As screen:
         Y: =230
         ZIndex: =29
 
-    "'Group 3 1_2' As image":
+    "'Group 3 1_5' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -402,19 +402,19 @@ Tabletproject As screen:
         Image: =image27182539
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =434
-        X: =1476
-        Y: =20
+        Width: =456
+        X: =792
+        Y: =31
         ZIndex: =32
 
-    goBack_Group_2 As group:
+    goBack_Group_5 As group:
         Height: =5
         Width: =5
         X: =40
         Y: =40
         ZIndex: =32
 
-        "'Go Back ➤_2' As label":
+        "'Go Back ➤_5' As label":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             Color: =RGBA(66, 66, 66, 1)
@@ -435,7 +435,7 @@ Tabletproject As screen:
             Y: =184
             ZIndex: =30
 
-        goBack_Button_2 As button:
+        goBack_Button_5 As button:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =0
@@ -468,24 +468,23 @@ Tabletproject As screen:
             Y: =175
             ZIndex: =31
 
-    "'Group 3 2_1' As image":
+    "'Group 3 2_2' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =54
+        Height: =55
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image27182540
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =137
-        X: =691
+        Width: =131
         Y: =838
         ZIndex: =33
 
-    "'2024 technology' As label":
+    "'2024 technology_1' As label":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         Color: =RGBA(0, 0, 0, 1)
@@ -493,7 +492,7 @@ Tabletproject As screen:
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         FontWeight: =FontWeight.Bold
-        Height: =53
+        Height: =54
         LineHeight: =0.6857143
         PaddingBottom: =0
         PaddingLeft: =0
@@ -504,37 +503,37 @@ Tabletproject As screen:
             ="2024 
             technology"
         VerticalAlign: =VerticalAlign.Top
-        Width: =209
-        X: =842
+        Width: =200
+        X: =145
         Y: =838
         ZIndex: =34
 
-    headerRight_group_2 As group:
+    headerRight_group_7 As group:
         Height: =5
         Width: =5
-        X: =-538
+        X: =40
         Y: =40
         ZIndex: =40
 
-        "'Ellipse 1_2' As image":
+        "'Ellipse 1_7' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =177
+            Height: =168
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image27181722
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =177
-            X: =1189
-            Y: =4
+            X: =1711
+            Y: =7
             ZIndex: =35
 
-        msft_Label_2 As label:
+        msft_Label_7 As label:
             Align: =Align.Right
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
@@ -544,7 +543,7 @@ Tabletproject As screen:
             FocusedBorderThickness: =4
             Font: =Font.Lato
             FontWeight: =FontWeight.Semibold
-            Height: =95
+            Height: =90
             Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
@@ -554,46 +553,46 @@ Tabletproject As screen:
             Size: =60
             Text: =username
             Width: =435
-            X: =709
-            Y: =123
+            X: =1247
+            Y: =117
             ZIndex: =36
 
-        "'Hello, 1_6' As image":
+        "'Hello, 1_11' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image2733252
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =170
-            X: =958
-            Y: =67
+            X: =1496
+            Y: =64
             ZIndex: =37
 
-        Image2_2 As image:
+        Image2_7 As image:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =Logout
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =175
-            X: =1188
-            Y: =181
+            X: =1710
+            Y: =172
             ZIndex: =38
 
-        logout_Button_2 As button:
+        logout_Button_7 As button:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =0
@@ -604,7 +603,7 @@ Tabletproject As screen:
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Semibold
-            Height: =50
+            Height: =47
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =RGBA(0, 0, 0, 0)
@@ -623,7 +622,7 @@ Tabletproject As screen:
             Size: =24
             Text: =
             Width: =182
-            X: =1184
-            Y: =184
+            X: =1702
+            Y: =175
             ZIndex: =39
 

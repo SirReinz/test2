@@ -423,7 +423,7 @@ Tablettoolbox As screen:
     headerRight_group_4 As group:
         Height: =5
         Width: =5
-        X: =-538
+        X: =40
         Y: =40
         ZIndex: =36
 
@@ -434,14 +434,15 @@ Tablettoolbox As screen:
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =177
+            Height: =168
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image27181722
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =183
-            X: =1723
+            Width: =177
+            X: =1711
+            Y: =7
             ZIndex: =31
 
         msft_Label_4 As label:
@@ -454,7 +455,7 @@ Tablettoolbox As screen:
             FocusedBorderThickness: =4
             Font: =Font.Lato
             FontWeight: =FontWeight.Semibold
-            Height: =95
+            Height: =90
             Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
@@ -463,9 +464,9 @@ Tablettoolbox As screen:
             PaddingTop: =8
             Size: =60
             Text: =username
-            Width: =491
-            X: =1231
-            Y: =123
+            Width: =435
+            X: =1247
+            Y: =117
             ZIndex: =32
 
         "'Hello, 1_8' As image":
@@ -474,15 +475,15 @@ Tablettoolbox As screen:
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =image2733252
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =192
-            X: =1512
-            Y: =67
+            Width: =170
+            X: =1496
+            Y: =64
             ZIndex: =33
 
         Image2_4 As image:
@@ -492,15 +493,15 @@ Tablettoolbox As screen:
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledFill: =RGBA(0, 0, 0, 0)
             FocusedBorderThickness: =4
-            Height: =65
+            Height: =62
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverFill: =RGBA(0, 0, 0, 0)
             Image: =Logout
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =181
-            X: =1725
-            Y: =181
+            Width: =175
+            X: =1710
+            Y: =172
             ZIndex: =34
 
         logout_Button_4 As button:
@@ -514,7 +515,7 @@ Tablettoolbox As screen:
             FocusedBorderColor: =ColorFade(Self.Fill, -75%)
             Font: =Font.'Segoe UI'
             FontWeight: =FontWeight.Semibold
-            Height: =50
+            Height: =47
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =RGBA(0, 0, 0, 0)
@@ -532,8 +533,8 @@ Tablettoolbox As screen:
             RadiusTopRight: =0
             Size: =24
             Text: =
-            Width: =188
-            X: =1718
-            Y: =184
+            Width: =182
+            X: =1702
+            Y: =175
             ZIndex: =35
 
