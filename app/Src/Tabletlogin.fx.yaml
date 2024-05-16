@@ -274,9 +274,3 @@ Tabletlogin As screen:
         Y: =546
         ZIndex: =13
 
-    Form1 As form:
-        BorderColor: =RGBA(166, 166, 166, 1)
-        X: =1120
-        Y: =728
-        ZIndex: =15
-
