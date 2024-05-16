@@ -14,41 +14,77 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tabletdiscussion.name_ListBox.Items"
+                  "fullyQualifiedName": "Tabletdiscussion.msft_Button_2.OnSelect"
                 }
               ],
               "physicalLocation": {
                 "address": {
-                  "fullyQualifiedName": "Tabletdiscussion.name_ListBox.Items",
+                  "fullyQualifiedName": "Tabletdiscussion.msft_Button_2.OnSelect",
                   "relativeAddress": 0
                 },
                 "region": {
-                  "charLength": 15,
-                  "charOffset": 0,
+                  "charLength": 2,
+                  "charOffset": 21,
                   "snippet": {
-                    "text": "discussionTopic"
+                    "text": "''"
                   }
                 }
               },
               "properties": {
-                "member": "Items",
+                "member": "OnSelect",
                 "module": "Tabletdiscussion",
-                "type": "Tabletdiscussion.name_ListBox"
+                "type": "Tabletdiscussion.msft_Button_2"
+              }
+            }
+          ],
+          "message": {
+            "id": "issue"
+          },
+          "properties": {
+            "level": "High"
+          },
+          "ruleId": "app-ErrEmptyInvalidIdentifier",
+          "ruleIndex": 0
+        },
+        {
+          "locations": [
+            {
+              "logicalLocations": [
+                {
+                  "fullyQualifiedName": "Tabletdiscussion.msft_Button_2.OnSelect"
+                }
+              ],
+              "physicalLocation": {
+                "address": {
+                  "fullyQualifiedName": "Tabletdiscussion.msft_Button_2.OnSelect",
+                  "relativeAddress": 0
+                },
+                "region": {
+                  "charLength": 2,
+                  "charOffset": 21,
+                  "snippet": {
+                    "text": "''"
+                  }
+                }
+              },
+              "properties": {
+                "member": "OnSelect",
+                "module": "Tabletdiscussion",
+                "type": "Tabletdiscussion.msft_Button_2"
               }
             }
           ],
           "message": {
             "arguments": [
-              "Table",
-              "Text"
+              "_"
             ],
             "id": "issue"
           },
           "properties": {
             "level": "High"
           },
-          "ruleId": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
-          "ruleIndex": 0
+          "ruleId": "app-ErrInvalidName",
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -85,7 +121,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -122,7 +158,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -159,7 +195,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -196,7 +232,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrBadToken",
-          "ruleIndex": 2
+          "ruleIndex": 3
         },
         {
           "locations": [
@@ -236,7 +272,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrExpectedFound-Ex-Fnd",
-          "ruleIndex": 3
+          "ruleIndex": 4
         },
         {
           "locations": [
@@ -276,7 +312,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrInvalidName",
-          "ruleIndex": 4
+          "ruleIndex": 1
         },
         {
           "locations": [
@@ -313,7 +349,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -350,7 +386,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -387,7 +423,7 @@
             "level": "High"
           },
           "ruleId": "app-ErrOperatorExpected",
-          "ruleIndex": 1
+          "ruleIndex": 2
         },
         {
           "locations": [
@@ -5616,16 +5652,33 @@
           "name": "PowerApps app checker",
           "rules": [
             {
-              "id": "app-ErrIncompatibleRulePropTypes-PropKind-RuleKind",
+              "id": "app-ErrEmptyInvalidIdentifier",
               "messageStrings": {
                 "issue": {
-                  "text": "Expected {0} value."
+                  "text": "The identifier has no valid text."
                 }
               },
               "properties": {
                 "componentType": "app",
                 "howToFix": [
-                  "Change the rule to produce a {0} value."
+                  "Ensure you have text for your identifier. This error occurs when the identifier is all blanks or spaces."
+                ],
+                "level": "High",
+                "primaryCategory": "formula",
+                "whyFix": ""
+              }
+            },
+            {
+              "id": "app-ErrInvalidName",
+              "messageStrings": {
+                "issue": {
+                  "text": "Name isn't valid. '{0}' isn't recognized."
+                }
+              },
+              "properties": {
+                "componentType": "app",
+                "howToFix": [
+                  "Remove or correct the reference to the name that isn't valid."
                 ],
                 "level": "High",
                 "primaryCategory": "formula",
@@ -5677,23 +5730,6 @@
                 "componentType": "app",
                 "howToFix": [
                   "Remove or replace the unexpected characters with an expected character."
-                ],
-                "level": "High",
-                "primaryCategory": "formula",
-                "whyFix": ""
-              }
-            },
-            {
-              "id": "app-ErrInvalidName",
-              "messageStrings": {
-                "issue": {
-                  "text": "Name isn't valid. '{0}' isn't recognized."
-                }
-              },
-              "properties": {
-                "componentType": "app",
-                "howToFix": [
-                  "Remove or correct the reference to the name that isn't valid."
                 ],
                 "level": "High",
                 "primaryCategory": "formula",

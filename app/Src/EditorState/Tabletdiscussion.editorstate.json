@@ -4748,7 +4748,7 @@
         },
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"Message\"}",
+          "NameMap": "{\"Value\":\"message\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
@@ -5583,7 +5583,14 @@
         "PressedBorderColor",
         "PressedColor",
         "PressedFill",
-        "OnSelect",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "false",
+          "InvariantPropertyName": "OnSelect",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "AutoDisableOnSelect",
         "Tooltip",
         "ContentLanguage",
@@ -10601,7 +10608,7 @@
       "Properties": [
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"Timesent\"}",
+          "NameMap": "{\"Value\":\"time\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
