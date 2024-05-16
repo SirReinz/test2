@@ -21,37 +21,21 @@ Tabletwarehouse As screen:
         Y: =15.5
         ZIndex: =1
 
-    "'Line 3 (2) 1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =36
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image27182646
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1928
-        Y: =239
-        ZIndex: =2
-
     "'Warehouse 2' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
         DisabledBorderColor: =RGBA(0, 0, 0, 0)
         DisabledFill: =RGBA(0, 0, 0, 0)
         FocusedBorderThickness: =4
-        Height: =85
+        Height: =72
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverFill: =RGBA(0, 0, 0, 0)
         Image: =image2733533
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =590
+        Width: =504
         X: =92
-        Y: =72
+        Y: =82
         ZIndex: =3
 
     "'Group 3 1_3' As image":
@@ -412,22 +396,6 @@ Tabletwarehouse As screen:
         Y: =67
         ZIndex: =23
 
-    "'Line 3 (1) 1_7' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =25.899276733398438
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image27182644
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1920
-        Y: =230
-        ZIndex: =24
-
     "'Line 3 (1) 1_6' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -442,7 +410,7 @@ Tabletwarehouse As screen:
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =1920
         Y: =230
-        ZIndex: =24
+        ZIndex: =27
 
     goBack_Group_3 As group:
         Height: =5
