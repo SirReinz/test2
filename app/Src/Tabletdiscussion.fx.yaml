@@ -346,6 +346,7 @@ Tabletdiscussion As screen:
         HoverFill: =RGBA(212, 212, 212, 1)
         Items: ='Discussion List'
         LineHeight: =1.13
+        OnSelect: =Set(discussionTopic, "test")
         PaddingBottom: =6
         PaddingLeft: =6
         PaddingRight: =6
@@ -525,6 +526,7 @@ Tabletdiscussion As screen:
         DisabledFill: =RGBA(244, 244, 244, 1)
         DisabledSelectionColor: =RGBA(166, 166, 166, 1)
         DisabledSelectionFill: =RGBA(220, 220, 220, 1)
+        DisplayMode: =DisplayMode.View
         Height: =427
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
@@ -581,6 +583,8 @@ Tabletdiscussion As screen:
             Image: =image27181722
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
+            Visible: |
+                =true
             Width: =177
             X: =1731
             Y: =7
@@ -604,6 +608,8 @@ Tabletdiscussion As screen:
             PaddingTop: =8
             Size: =60
             Text: =username
+            Visible: |
+                =true
             Width: =435
             X: =1267
             Y: =117
@@ -621,28 +627,12 @@ Tabletdiscussion As screen:
             Image: =image2733252
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
+            Visible: |
+                =true
             Width: =170
             X: =1516
             Y: =64
             ZIndex: =18
-
-        Image2_5 As image:
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            BorderThickness: =2
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =62
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =Logout
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =175
-            X: =1730
-            Y: =172
-            ZIndex: =19
 
         logout_Button_5 As button:
             BorderColor: =RGBA(0, 0, 0, 0)
@@ -673,6 +663,8 @@ Tabletdiscussion As screen:
             RadiusTopRight: =0
             Size: =24
             Text: =
+            Visible: |
+                =true
             Width: =182
             X: =1722
             Y: =175
@@ -693,7 +685,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: ='Discussion List'
+        Items: ='test'
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
