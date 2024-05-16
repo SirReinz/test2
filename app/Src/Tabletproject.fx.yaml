@@ -134,8 +134,8 @@ Tabletproject As screen:
         HoverFill: =RGBA(0, 120, 212, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         Width: =902
-        X: =991
-        Y: =291
+        X: =1014
+        Y: =307
         ZIndex: =9
 
     "'Auto Detected Progress' As label":
@@ -530,23 +530,6 @@ Tabletproject As screen:
         X: =92
         Y: =72
         ZIndex: =27
-
-    "'Hello, 1_4' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =65
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image2733252
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =170
-        X: =1496
-        Y: =67
-        ZIndex: =28
 
     "'Line 3 (1) 1_5' As image":
         BorderColor: =RGBA(0, 0, 0, 0)

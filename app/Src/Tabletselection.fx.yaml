@@ -319,22 +319,26 @@ Tabletselection As screen:
             ZIndex: =22
 
         msft_Label_1 As label:
+            Align: =Align.Right
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             Color: =RGBA(51, 51, 51, 1)
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
+            Font: =Font.Lato
+            FontWeight: =FontWeight.Semibold
             Height: =95
+            Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
             PaddingLeft: =0
             PaddingRight: =0
             PaddingTop: =8
             Size: =60
-            Text: ="{user}"
-            Width: =229
-            X: =1472
+            Text: =username
+            Width: =435
+            X: =1247
             Y: =123
             ZIndex: =23
 
@@ -388,6 +392,7 @@ Tabletselection As screen:
             HoverBorderColor: =RGBA(0, 0, 0, 0)
             HoverColor: =RGBA(255, 255, 255, 1)
             HoverFill: =RGBA(0, 0, 0, 0)
+            OnSelect: =Navigate(Tabletlogin)
             PaddingBottom: =7
             PaddingLeft: =32
             PaddingRight: =32

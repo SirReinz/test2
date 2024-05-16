@@ -172,7 +172,7 @@ Tabletlogin As screen:
                         user_name = username_input.Text && password = password_input.Text
                     )
                 ),
-                Navigate(Tablettoolbox) + Reset(password_input),
+                Navigate(Tabletdiscussion) + Reset(password_input) + Set(username, username_input.Text),
                 Set(isVisible, true) + Reset(password_input)
             )
         PaddingBottom: =7

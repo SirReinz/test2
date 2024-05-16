@@ -587,13 +587,17 @@ Tabletdiscussion As screen:
             ZIndex: =2
 
         msft_Label As label:
+            Align: =Align.Right
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             Color: =RGBA(51, 51, 51, 1)
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
+            Font: =Font.Lato
+            FontWeight: =FontWeight.Semibold
             Height: =95
+            Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
             PaddingLeft: =0
@@ -601,8 +605,8 @@ Tabletdiscussion As screen:
             PaddingTop: =8
             Size: =60
             Text: =username
-            Width: =229
-            X: =1472
+            Width: =435
+            X: =1247
             Y: =123
             ZIndex: =5
 
