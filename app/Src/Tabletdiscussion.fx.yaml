@@ -106,8 +106,8 @@ Tabletdiscussion As screen:
             Fill: =RGBA(72.25, 72.25, 72.25, 1)
             FocusedBorderThickness: =4
             Height: =679
-            HoverFill: =RGBA(0, 120, 212, 1)
-            PressedFill: =RGBA(0, 120, 212, 1)
+            HoverFill: =RGBA(72.25, 72.25, 72.25, 1)
+            PressedFill: =RGBA(72.25, 72.25, 72.25, 1)
             Width: =330
             Y: =226
             ZIndex: =6
@@ -331,6 +331,24 @@ Tabletdiscussion As screen:
                 Y: =5.10107421875
                 ZIndex: =22
 
+        defaultText_Label As label:
+            BorderColor: =RGBA(0, 0, 0, 0)
+            BorderStyle: =BorderStyle.None
+            BorderThickness: =2
+            Color: =RGBA(51, 51, 51, 1)
+            DisabledBorderColor: =RGBA(0, 0, 0, 0)
+            DisabledColor: =RGBA(166, 166, 166, 1)
+            FocusedBorderThickness: =4
+            Font: =Font.'Segoe UI'
+            Height: =97
+            Size: =20
+            Text: ="Select a discussion topic to start talking!"
+            Visible: =defaultSelected
+            Width: =490
+            X: =352
+            Y: =739
+            ZIndex: =17
+
     msft_ListBox As listbox:
         BorderColor: =RGBA(166, 166, 166, 1)
         Color: =RGBA(51, 51, 51, 1)
@@ -346,7 +364,7 @@ Tabletdiscussion As screen:
         HoverFill: =RGBA(212, 212, 212, 1)
         Items: ='Discussion List'
         LineHeight: =1.13
-        OnSelect: =Set(discussionTopic, 'Discussion Test')
+        OnSelect: =Set(discussionTopic, 'Discussion Test') + Set(defaultSelected, false)
         PaddingBottom: =6
         PaddingLeft: =6
         PaddingRight: =6
@@ -436,7 +454,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Set(discussionTopic, 'Discussion Default')
+        OnSelect: =Set(discussionTopic, 'Discussion Default') + Set(defaultSelected, true)
         PaddingBottom: =7
         PaddingLeft: =32
         PaddingRight: =32
@@ -824,7 +842,7 @@ Tabletdiscussion As screen:
         SelectionFill: =RGBA(0, 120, 212, 1)
         Size: =12.75
         Width: =942
-        X: =426
-        Y: =314
+        X: =393
+        Y: =330
         ZIndex: =25
 

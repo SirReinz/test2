@@ -8,6 +8,9 @@
     "datasets": {
       "https://unisydneyedu.sharepoint.com/sites/Group14Assignment2": {
         "dataSources": {
+          "Discussion Default": {
+            "tableName": "6e57274f-6103-47e0-9e1f-36cf74963d35"
+          },
           "Discussion List": {
             "tableName": "1a78ebcc-b807-41d1-a714-29756bf187bc"
           },
@@ -23,7 +26,8 @@
     "dataSources": [
       "user_info",
       "Discussion List",
-      "Discussion Test"
+      "Discussion Test",
+      "Discussion Default"
     ],
     "dependencies": {},
     "dependents": [],
