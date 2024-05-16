@@ -11,6 +11,9 @@
           "Discussion List": {
             "tableName": "1a78ebcc-b807-41d1-a714-29756bf187bc"
           },
+          "Discussion Test": {
+            "tableName": "04182feb-fb33-4906-86d1-8c807a6c874b"
+          },
           "user_info": {
             "tableName": "d89cdf85-405e-4fa6-9bed-cc5353816673"
           }
@@ -19,7 +22,8 @@
     },
     "dataSources": [
       "user_info",
-      "Discussion List"
+      "Discussion List",
+      "Discussion Test"
     ],
     "dependencies": {},
     "dependents": [],
