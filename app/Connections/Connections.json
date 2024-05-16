@@ -1,1 +1,24 @@
-{}
+{
+  "ee01e1d5-5b48-4a53-995b-a5b29a9e68c2": {
+    "connectionRef": {
+      "displayName": "SharePoint",
+      "iconUri": "https://connectoricons-prod.azureedge.net/releases/v1.0.1685/1.0.1685.3700/sharepointonline/icon.png",
+      "id": "/providers/microsoft.powerapps/apis/shared_sharepointonline"
+    },
+    "datasets": {
+      "https://unisydneyedu.sharepoint.com/sites/Group14Assignment2": {
+        "dataSources": {
+          "user_info": {
+            "tableName": "d89cdf85-405e-4fa6-9bed-cc5353816673"
+          }
+        }
+      }
+    },
+    "dataSources": [
+      "user_info"
+    ],
+    "dependencies": {},
+    "dependents": [],
+    "id": "ee01e1d5-5b48-4a53-995b-a5b29a9e68c2"
+  }
+}

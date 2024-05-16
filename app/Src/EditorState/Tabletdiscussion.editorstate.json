@@ -626,7 +626,7 @@
       "MetaDataIDKey": "",
       "Name": "Current Project discussions",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 9,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -954,7 +954,7 @@
       "MetaDataIDKey": "",
       "Name": "Discussion",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3917,7 +3917,7 @@
       "MetaDataIDKey": "",
       "Name": "Label2",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4179,7 +4179,7 @@
       "MetaDataIDKey": "",
       "Name": "Line 3 (1) 1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4477,7 +4477,7 @@
       "MetaDataIDKey": "",
       "Name": "Logout",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8657,7 +8657,7 @@
       "MetaDataIDKey": "",
       "Name": "Please Select a Discussion topic to view discussion",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 12,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8985,7 +8985,7 @@
       "MetaDataIDKey": "",
       "Name": "Project overview",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 11,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9288,7 +9288,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 10",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9466,7 +9466,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 11",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9644,7 +9644,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -9822,7 +9822,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 10,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -10000,7 +10000,7 @@
       "MetaDataIDKey": "",
       "Name": "Rectangle 8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
