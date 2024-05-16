@@ -4639,7 +4639,7 @@
       "Properties": [
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"{Name}\"}",
+          "NameMap": "{\"Value\":\"DiscussionTopic\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
@@ -5730,7 +5730,7 @@
       "MetaDataIDKey": "",
       "Name": "message_ListBox",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 10,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5755,7 +5755,7 @@
         },
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"message\"}",
+          "NameMap": "{\"Value\":\"Message\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
@@ -8067,7 +8067,7 @@
       "MetaDataIDKey": "",
       "Name": "name_ListBox",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 9,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -8092,7 +8092,7 @@
         },
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"username\"}",
+          "NameMap": "{\"Value\":\"User\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
@@ -10599,12 +10599,12 @@
       "MetaDataIDKey": "",
       "Name": "time_ListBox",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 11,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
           "Category": "Data",
-          "NameMap": "{\"Value\":\"time\"}",
+          "NameMap": "{\"Value\":\"Timesent\"}",
           "PropertyName": "Items",
           "RuleProviderType": "Unknown"
         },
