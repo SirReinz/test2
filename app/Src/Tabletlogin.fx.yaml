@@ -173,7 +173,7 @@ Tabletlogin As screen:
                     )
                 ),
                 Navigate(Tablettoolbox),
-                Set(isVisible, true)
+                Set(isVisible, true) + Reset(password_input)
             )
         PaddingBottom: =7
         PaddingLeft: =32
@@ -240,6 +240,7 @@ Tabletlogin As screen:
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(255, 255, 255, 1)
         LineHeight: =1.183
+        Mode: =TextMode.Password
         PaddingBottom: =9
         PaddingRight: =12
         PaddingTop: =8
@@ -265,12 +266,13 @@ Tabletlogin As screen:
         DisabledColor: =RGBA(166, 166, 166, 1)
         FocusedBorderThickness: =4
         Font: =Font.'Segoe UI'
-        Height: =88
-        Size: =13
+        FontWeight: =FontWeight.Semibold
+        Height: =83
+        Size: =18
         Text: ="Incorrect username or password"
         Visible: =isVisible
-        Width: =178
-        X: =1423
-        Y: =546
+        Width: =233
+        X: =1408
+        Y: =549
         ZIndex: =13
 

@@ -1,5 +1,7 @@
 App As appinfo:
     BackEnabled: =false
+    OnStart: |
+        =Set(isVisible, false)+Reset(password_input)+Reset(username_input)
     Theme: =PowerAppsTheme
 
     Host As hostControl.DefaultHostControlVariant:
