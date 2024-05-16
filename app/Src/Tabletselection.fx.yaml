@@ -27,22 +27,6 @@ Tabletselection As screen:
             X: =1722.8525390625
             ZIndex: =2
 
-        "'Line 3 2' As image":
-            BorderColor: =RGBA(0, 0, 0, 0)
-            BorderStyle: =BorderStyle.None
-            DisabledBorderColor: =RGBA(0, 0, 0, 0)
-            DisabledFill: =RGBA(0, 0, 0, 0)
-            FocusedBorderThickness: =4
-            Height: =30
-            HoverBorderColor: =RGBA(0, 0, 0, 0)
-            HoverFill: =RGBA(0, 0, 0, 0)
-            Image: =image2733542
-            PressedBorderColor: =RGBA(0, 0, 0, 0)
-            PressedFill: =RGBA(0, 0, 0, 0)
-            Width: =1937
-            Y: =228
-            ZIndex: =3
-
         "'Current project 1' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
@@ -57,7 +41,7 @@ Tabletselection As screen:
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =648
             X: =90
-            Y: =72
+            Y: =62
             ZIndex: =4
 
         "'Group 3 1_1' As image":
@@ -395,4 +379,20 @@ Tabletselection As screen:
         X: =132
         Y: =339
         ZIndex: =18
+
+    "'Line 3 (1) 1_4' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =25.899276733398438
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image27182644
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =1920
+        Y: =230
+        ZIndex: =19
 

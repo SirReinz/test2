@@ -21,22 +21,6 @@ Tablettoolbox As screen:
         Y: =15.5
         ZIndex: =1
 
-    "'Line 3 1_1' As image":
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledFill: =RGBA(0, 0, 0, 0)
-        FocusedBorderThickness: =4
-        Height: =36
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverFill: =RGBA(0, 0, 0, 0)
-        Image: =image27182587
-        PressedBorderColor: =RGBA(0, 0, 0, 0)
-        PressedFill: =RGBA(0, 0, 0, 0)
-        Width: =1933
-        Y: =237
-        ZIndex: =3
-
     "'Toolbox 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
@@ -50,8 +34,8 @@ Tablettoolbox As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =398
-        X: =74
-        Y: =91
+        X: =64
+        Y: =81
         ZIndex: =4
 
     Icons As groupContainer.manualLayoutContainer:
@@ -517,7 +501,7 @@ Tablettoolbox As screen:
         Text: ="Button"
         Width: =222
         X: =91
-        Y: =185
+        Y: =175
         ZIndex: =25
 
     msft_Label_4 As label:
@@ -556,4 +540,20 @@ Tablettoolbox As screen:
         X: =1496
         Y: =67
         ZIndex: =27
+
+    "'Line 3 (1) 1_8' As image":
+        BorderColor: =RGBA(0, 0, 0, 0)
+        BorderStyle: =BorderStyle.None
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledFill: =RGBA(0, 0, 0, 0)
+        FocusedBorderThickness: =4
+        Height: =25.899276733398438
+        HoverBorderColor: =RGBA(0, 0, 0, 0)
+        HoverFill: =RGBA(0, 0, 0, 0)
+        Image: =image27182644
+        PressedBorderColor: =RGBA(0, 0, 0, 0)
+        PressedFill: =RGBA(0, 0, 0, 0)
+        Width: =1920
+        Y: =230
+        ZIndex: =28
 
