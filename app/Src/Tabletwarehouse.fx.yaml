@@ -50,7 +50,7 @@ Tabletwarehouse As screen:
         PressedBorderColor: =RGBA(0, 0, 0, 0)
         PressedFill: =RGBA(0, 0, 0, 0)
         Width: =619
-        X: =91
+        X: =74
         Y: =371
         ZIndex: =5
 

@@ -344,7 +344,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =["Value1", "Value2", "Value3"]
+        Items: ='Discussion List'
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
@@ -678,6 +678,37 @@ Tabletdiscussion As screen:
             Y: =175
             ZIndex: =20
 
+    name_ListBox As listbox:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Value1"
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        DisabledSelectionColor: =RGBA(166, 166, 166, 1)
+        DisabledSelectionFill: =RGBA(220, 220, 220, 1)
+        DisplayMode: =DisplayMode.View
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =526
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: ='Discussion List'
+        LineHeight: =1.13
+        PaddingBottom: =6
+        PaddingLeft: =6
+        PaddingRight: =6
+        PaddingTop: =6
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =12.75
+        Width: =73
+        X: =330
+        Y: =330
+        ZIndex: =23
+
     goBack_Group_8 As group:
         Height: =5
         Width: =5
@@ -740,4 +771,66 @@ Tabletdiscussion As screen:
             X: =103
             Y: =171
             ZIndex: =22
+
+    message_ListBox As listbox:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Value1"
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        DisabledSelectionColor: =RGBA(166, 166, 166, 1)
+        DisabledSelectionFill: =RGBA(220, 220, 220, 1)
+        DisplayMode: =DisplayMode.View
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =526
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: ='Discussion List'
+        LineHeight: =1.13
+        PaddingBottom: =6
+        PaddingLeft: =6
+        PaddingRight: =6
+        PaddingTop: =6
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =12.75
+        Width: =978
+        X: =391
+        Y: =330
+        ZIndex: =24
+
+    time_ListBox As listbox:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        Color: =RGBA(51, 51, 51, 1)
+        Default: ="Value1"
+        DisabledBorderColor: =RGBA(166, 166, 166, 1)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        DisabledSelectionColor: =RGBA(166, 166, 166, 1)
+        DisabledSelectionFill: =RGBA(220, 220, 220, 1)
+        DisplayMode: =DisplayMode.View
+        Fill: =RGBA(0, 0, 0, 0)
+        Height: =526
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(212, 212, 212, 1)
+        Items: ='Discussion List'
+        LineHeight: =1.13
+        PaddingBottom: =6
+        PaddingLeft: =6
+        PaddingRight: =6
+        PaddingTop: =6
+        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        PressedColor: =RGBA(255, 255, 255, 1)
+        PressedFill: =RGBA(0, 120, 212, 1)
+        SelectionFill: =RGBA(0, 120, 212, 1)
+        Size: =12.75
+        Width: =978
+        X: =391
+        Y: =314
+        ZIndex: =25
 

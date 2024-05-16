@@ -1044,7 +1044,7 @@
       "MetaDataIDKey": "",
       "Name": "Ellipse 1_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2026,7 +2026,7 @@
       "MetaDataIDKey": "",
       "Name": "Go Back ➤_5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2415,7 +2415,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Button_5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 0,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2687,7 +2687,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Group_5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 26,
+      "ParentIndex": 27,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2793,7 +2793,7 @@
       "MetaDataIDKey": "",
       "Name": "Group 3 1_5",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3337,7 +3337,7 @@
       "MetaDataIDKey": "",
       "Name": "headerRight_group_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 27,
+      "ParentIndex": 26,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3429,7 +3429,7 @@
       "MetaDataIDKey": "",
       "Name": "Hello, 1_11",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3719,7 +3719,7 @@
       "MetaDataIDKey": "",
       "Name": "Image2_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6230,7 +6230,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Label_7",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -7633,7 +7633,7 @@
       "MetaDataIDKey": "",
       "Name": "Robot Peter 1_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {

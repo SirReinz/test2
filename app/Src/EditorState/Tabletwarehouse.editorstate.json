@@ -716,7 +716,7 @@
       "MetaDataIDKey": "",
       "Name": "Ellipse 1_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1370,7 +1370,7 @@
       "MetaDataIDKey": "",
       "Name": "Go Back ➤_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1759,7 +1759,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Button_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 0,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2031,7 +2031,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Group_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 22,
+      "ParentIndex": 23,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2123,7 +2123,7 @@
       "MetaDataIDKey": "",
       "Name": "Group 3 1_3",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2375,7 +2375,7 @@
       "MetaDataIDKey": "",
       "Name": "headerRight_group_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 23,
+      "ParentIndex": 22,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2467,7 +2467,7 @@
       "MetaDataIDKey": "",
       "Name": "Hello, 1_10",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2757,7 +2757,7 @@
       "MetaDataIDKey": "",
       "Name": "Image2_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4308,7 +4308,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Label_6",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -6962,7 +6962,7 @@
       "MetaDataIDKey": "",
       "Name": "Warehouse 2",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
