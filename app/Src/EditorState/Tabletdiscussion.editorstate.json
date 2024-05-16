@@ -6929,7 +6929,14 @@
         "PressedColor",
         "PressedFill",
         "Reset",
-        "SelectMultiple",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "",
+          "InvariantPropertyName": "SelectMultiple",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "ItemPaddingLeft",
         "AccessibleLabel",
         "Tooltip",

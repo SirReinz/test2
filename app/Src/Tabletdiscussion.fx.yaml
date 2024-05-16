@@ -355,6 +355,7 @@ Tabletdiscussion As screen:
         PressedColor: =RGBA(255, 255, 255, 1)
         PressedFill: =RGBA(0, 120, 212, 1)
         SelectionFill: =RGBA(0, 120, 212, 1)
+        SelectMultiple: =false
         Size: =12.75
         Width: =320
         X: =5
@@ -435,7 +436,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Set(discussionTopic, '')
+        OnSelect: =Set(discussionTopic, 'Discussion Default')
         PaddingBottom: =7
         PaddingLeft: =32
         PaddingRight: =32
