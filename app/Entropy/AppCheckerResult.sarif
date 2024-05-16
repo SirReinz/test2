@@ -2333,36 +2333,6 @@
             {
               "logicalLocations": [
                 {
-                  "fullyQualifiedName": "Tabletdiscussion.'Discussion main page'.Logout.TabIndex"
-                }
-              ],
-              "physicalLocation": {
-                "address": {
-                  "fullyQualifiedName": "Tabletdiscussion.'Discussion main page'.Logout.TabIndex",
-                  "relativeAddress": 0
-                }
-              },
-              "properties": {
-                "member": "TabIndex",
-                "module": "Tabletdiscussion",
-                "type": "Tabletdiscussion.'Discussion main page'.Logout"
-              }
-            }
-          ],
-          "message": {
-            "id": "issue"
-          },
-          "properties": {
-            "level": "Medium"
-          },
-          "ruleId": "acc-TabIndexShouldBeDefinedForInteractiveControl",
-          "ruleIndex": 5
-        },
-        {
-          "locations": [
-            {
-              "logicalLocations": [
-                {
                   "fullyQualifiedName": "Tabletdiscussion.'Discussion main page'.'Line 3 (1) 1'.AccessibleLabel"
                 }
               ],

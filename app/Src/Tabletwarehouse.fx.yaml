@@ -346,38 +346,6 @@ Tabletwarehouse As screen:
         Y: =124
         ZIndex: =19
 
-    logout_Button As button:
-        BorderColor: =RGBA(0, 0, 0, 0)
-        BorderStyle: =BorderStyle.None
-        BorderThickness: =0
-        DisabledBorderColor: =RGBA(0, 0, 0, 0)
-        DisabledColor: =RGBA(166, 166, 166, 1)
-        DisabledFill: =RGBA(244, 244, 244, 1)
-        Fill: =RGBA(0, 120, 212, 1)
-        FocusedBorderColor: =ColorFade(Self.Fill, -75%)
-        FontWeight: =FontWeight.Semibold
-        Height: =59
-        HoverBorderColor: =RGBA(0, 0, 0, 0)
-        HoverColor: =RGBA(255, 255, 255, 1)
-        HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        PaddingBottom: =12
-        PaddingLeft: =56
-        PaddingRight: =56
-        PaddingTop: =11
-        PressedBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -50%)
-        PressedColor: =RGBA(255, 255, 255, 1)
-        PressedFill: =ColorFade(RGBA(0, 120, 212, 1), -30%)
-        RadiusBottomLeft: =4
-        RadiusBottomRight: =4
-        RadiusTopLeft: =4
-        RadiusTopRight: =4
-        Size: =15
-        Text: =""
-        Width: =155
-        X: =1724
-        Y: =184
-        ZIndex: =20
-
     "'Logout 1' As image":
         BorderColor: =RGBA(0, 0, 0, 0)
         BorderStyle: =BorderStyle.None
