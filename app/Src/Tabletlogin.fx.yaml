@@ -172,7 +172,7 @@ Tabletlogin As screen:
                         user_name = username_input.Text && password = password_input.Text
                     )
                 ),
-                Navigate(Tablettoolbox),
+                Navigate(Tablettoolbox) + Reset(password_input),
                 Set(isVisible, true) + Reset(password_input)
             )
         PaddingBottom: =7
@@ -244,4 +244,35 @@ Tabletlogin As screen:
         X: =1408
         Y: =549
         ZIndex: =13
+
+    username_input As text:
+        BorderColor: =RGBA(166, 166, 166, 1)
+        BorderThickness: =2
+        Color: =RGBA(166, 166, 166, 1)
+        Default: =
+        DisabledBorderColor: =RGBA(0, 0, 0, 0)
+        DisabledColor: =RGBA(166, 166, 166, 1)
+        DisabledFill: =RGBA(244, 244, 244, 1)
+        FocusedBorderThickness: =4
+        Height: =148
+        HintText: ="Username"
+        HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
+        HoverColor: =RGBA(51, 51, 51, 1)
+        HoverFill: =RGBA(255, 255, 255, 1)
+        LineHeight: =1.183
+        PaddingBottom: =9
+        PaddingRight: =12
+        PaddingTop: =8
+        PressedBorderColor: =RGBA(0, 120, 212, 1)
+        PressedColor: =RGBA(51, 51, 51, 1)
+        PressedFill: =RGBA(255, 255, 255, 1)
+        RadiusBottomLeft: =0
+        RadiusBottomRight: =0
+        RadiusTopLeft: =0
+        RadiusTopRight: =0
+        Size: =37.5
+        Width: =761
+        X: =840
+        Y: =228
+        ZIndex: =14
 
