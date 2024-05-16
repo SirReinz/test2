@@ -8374,7 +8374,14 @@
         "X",
         "Y",
         "ZIndex",
-        "Text",
+        {
+          "AFDDataSourceName": "",
+          "AutoRuleBindingEnabled": false,
+          "AutoRuleBindingString": "\"Please Select a Discussion topic to view discussion\"",
+          "InvariantPropertyName": "Text",
+          "IsLockable": false,
+          "NameMapSourceSchema": "?"
+        },
         "Visible",
         "Overflow",
         "FocusedBorderThickness",

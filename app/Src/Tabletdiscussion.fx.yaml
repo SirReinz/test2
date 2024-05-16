@@ -201,7 +201,12 @@ Tabletdiscussion As screen:
             PaddingRight: =0
             PaddingTop: =0
             Size: =26.25
-            Text: ="Please Select a Discussion topic to view discussion"
+            Text: |-
+                =If(
+                    !IsBlank(First(ListBox1.SelectedItems)),
+                    First(ListBox1.SelectedItems).'Discussion Topic',
+                    "Please select or create a Project Discussion."
+                )
             VerticalAlign: =VerticalAlign.Top
             Width: =797
             X: =352
@@ -422,15 +427,23 @@ Tabletdiscussion As screen:
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
         OnSelect: |-
-            =Patch(
-                'Discussion List',
-                Defaults('Discussion List'),
-                {
-                    User: username_input.Text,
-                    Message: message_input.Text,
-                    Time_sent: Text(Now(), DateTimeFormat.LongTime24),
-                    Discussion_Topic: First(ListBox1.SelectedItems).'Discussion Topic'
-                }
+            =If(
+                !IsBlank(First(ListBox1.SelectedItems)),
+                Patch(
+                    'Discussion List',
+                    Defaults('Discussion List'),
+                    {
+                        User: username_input.Text,
+                        Message: message_input.Text,
+                        Time_sent: Text(
+                            Now(),
+                            DateTimeFormat.LongTime24
+                        ),
+                        Discussion_Topic: First(ListBox1.SelectedItems).'Discussion Topic'
+                    }
+                );
+                Reset(message_input)
+            )
         PaddingBottom: =7
         PaddingLeft: =32
         PaddingRight: =32
@@ -463,7 +476,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(255, 255, 255, 1)
         HoverFill: =ColorFade(RGBA(0, 120, 212, 1), -10%)
-        OnSelect: =Set(discussionTopic, 'Discussion Default') + Set(defaultSelected, true)
+        OnSelect: =Set(defaultSelected, true) + Reset(ListBox1)
         PaddingBottom: =7
         PaddingLeft: =32
         PaddingRight: =32
