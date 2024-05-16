@@ -656,9 +656,8 @@ Tabletdiscussion As screen:
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
             Font: =Font.Lato
-            FontWeight: =FontWeight.Semibold
+            FontWeight: =FontWeight.Bold
             Height: =90
-            Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
             PaddingLeft: =0

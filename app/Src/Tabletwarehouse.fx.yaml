@@ -404,8 +404,8 @@ Tabletwarehouse As screen:
     headerRight_group_6 As group:
         Height: =5
         Width: =5
-        X: =40
-        Y: =40
+        X: =20
+        Y: =20
         ZIndex: =33
 
         "'Ellipse 1_6' As image":
@@ -422,7 +422,7 @@ Tabletwarehouse As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =177
-            X: =1711
+            X: =1731
             Y: =7
             ZIndex: =28
 
@@ -435,9 +435,8 @@ Tabletwarehouse As screen:
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
             Font: =Font.Lato
-            FontWeight: =FontWeight.Semibold
+            FontWeight: =FontWeight.Bold
             Height: =90
-            Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
             PaddingLeft: =0
@@ -446,7 +445,7 @@ Tabletwarehouse As screen:
             Size: =60
             Text: =username
             Width: =435
-            X: =1247
+            X: =1267
             Y: =117
             ZIndex: =29
 
@@ -463,7 +462,7 @@ Tabletwarehouse As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =170
-            X: =1496
+            X: =1516
             Y: =64
             ZIndex: =30
 
@@ -481,7 +480,7 @@ Tabletwarehouse As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =175
-            X: =1710
+            X: =1730
             Y: =172
             ZIndex: =31
 
@@ -515,7 +514,7 @@ Tabletwarehouse As screen:
             Size: =24
             Text: =
             Width: =182
-            X: =1702
+            X: =1722
             Y: =175
             ZIndex: =32
 

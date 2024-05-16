@@ -420,14 +420,14 @@ Tablettoolbox As screen:
             Y: =171
             ZIndex: =30
 
-    headerRight_group_4 As group:
+    headerRight_group_9 As group:
         Height: =5
         Width: =5
-        X: =40
-        Y: =40
+        X: =20
+        Y: =20
         ZIndex: =36
 
-        "'Ellipse 1_4' As image":
+        "'Ellipse 1_9' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -441,11 +441,11 @@ Tablettoolbox As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =177
-            X: =1711
+            X: =1731
             Y: =7
             ZIndex: =31
 
-        msft_Label_4 As label:
+        msft_Label_9 As label:
             Align: =Align.Right
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
@@ -454,9 +454,8 @@ Tablettoolbox As screen:
             DisabledColor: =RGBA(166, 166, 166, 1)
             FocusedBorderThickness: =4
             Font: =Font.Lato
-            FontWeight: =FontWeight.Semibold
+            FontWeight: =FontWeight.Bold
             Height: =90
-            Italic: =true
             LineHeight: =1.183
             PaddingBottom: =9
             PaddingLeft: =0
@@ -465,11 +464,11 @@ Tablettoolbox As screen:
             Size: =60
             Text: =username
             Width: =435
-            X: =1247
+            X: =1267
             Y: =117
             ZIndex: =32
 
-        "'Hello, 1_8' As image":
+        "'Hello, 1_13' As image":
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             DisabledBorderColor: =RGBA(0, 0, 0, 0)
@@ -482,11 +481,11 @@ Tablettoolbox As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =170
-            X: =1496
+            X: =1516
             Y: =64
             ZIndex: =33
 
-        Image2_4 As image:
+        Image2_9 As image:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =2
@@ -500,11 +499,11 @@ Tablettoolbox As screen:
             PressedBorderColor: =RGBA(0, 0, 0, 0)
             PressedFill: =RGBA(0, 0, 0, 0)
             Width: =175
-            X: =1710
+            X: =1730
             Y: =172
             ZIndex: =34
 
-        logout_Button_4 As button:
+        logout_Button_9 As button:
             BorderColor: =RGBA(0, 0, 0, 0)
             BorderStyle: =BorderStyle.None
             BorderThickness: =0
@@ -534,7 +533,7 @@ Tablettoolbox As screen:
             Size: =24
             Text: =
             Width: =182
-            X: =1702
+            X: =1722
             Y: =175
             ZIndex: =35
 

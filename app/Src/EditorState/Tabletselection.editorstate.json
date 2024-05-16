@@ -349,7 +349,7 @@
       "MetaDataIDKey": "",
       "Name": "Current project page 1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 1,
+      "ParentIndex": 0,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -591,7 +591,7 @@
       "MetaDataIDKey": "",
       "Name": "Ellipse 1_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 0,
+      "ParentIndex": 10,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -903,7 +903,7 @@
       "MetaDataIDKey": "",
       "Name": "Go Back ➤_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 7,
+      "ParentIndex": 2,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1285,7 +1285,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Button_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 4,
+      "ParentIndex": 1,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1557,7 +1557,7 @@
       "MetaDataIDKey": "",
       "Name": "goBack_Group_1",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 16,
+      "ParentIndex": 15,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1901,7 +1901,7 @@
       "MetaDataIDKey": "",
       "Name": "headerRight_group_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 15,
+      "ParentIndex": 16,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -1993,7 +1993,7 @@
       "MetaDataIDKey": "",
       "Name": "Hello, 1_12",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 2,
+      "ParentIndex": 11,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2283,7 +2283,7 @@
       "MetaDataIDKey": "",
       "Name": "Image2_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 5,
+      "ParentIndex": 13,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2502,7 +2502,7 @@
       "MetaDataIDKey": "",
       "Name": "Line 3 (1) 1_4",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 8,
+      "ParentIndex": 3,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -2854,7 +2854,7 @@
       "MetaDataIDKey": "",
       "Name": "logout_Button_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 6,
+      "ParentIndex": 14,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3170,7 +3170,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Button_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 13,
+      "ParentIndex": 8,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3486,7 +3486,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Button_9",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 14,
+      "ParentIndex": 9,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -3804,7 +3804,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Checkbox",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 11,
+      "ParentIndex": 6,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4174,7 +4174,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_Label_8",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 3,
+      "ParentIndex": 12,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4504,7 +4504,7 @@
       "MetaDataIDKey": "",
       "Name": "msft_ListBox_3",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 12,
+      "ParentIndex": 7,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -4842,7 +4842,7 @@
       "MetaDataIDKey": "",
       "Name": "Page",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 9,
+      "ParentIndex": 4,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
@@ -5348,7 +5348,7 @@
       "MetaDataIDKey": "",
       "Name": "String-label",
       "OptimizeForDevices": "Off",
-      "ParentIndex": 10,
+      "ParentIndex": 5,
       "PersistMetaDataIDKey": false,
       "Properties": [
         {
