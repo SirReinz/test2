@@ -168,12 +168,12 @@ Tabletlogin As screen:
             =If(
                 !IsBlank(
                     LookUp(
-                        'user_info',
+                        user_info,
                         user_name = username_input.Text && password = password_input.Text
                     )
                 ),
                 Navigate(Tablettoolbox),
-                fail_text.Visible = true
+                Set(isVisible, true)
             )
         PaddingBottom: =7
         PaddingLeft: =32
@@ -268,7 +268,7 @@ Tabletlogin As screen:
         Height: =88
         Size: =13
         Text: ="Incorrect username or password"
-        Visible: =false
+        Visible: =isVisible
         Width: =178
         X: =1423
         Y: =546
