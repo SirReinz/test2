@@ -428,8 +428,8 @@ Tabletdiscussion As screen:
                 {
                     User: username_input.Text,
                     Message: message_input.Text,
-                    Time_sent: message_input.Text,
-                    Discussion_Topic: First(ListBox1.SelectedItems).Default
+                    Time_sent: Text(Now(), DateTimeFormat.LongTime24),
+                    Discussion_Topic: First(ListBox1.SelectedItems).'Discussion Topic'
                 }
         PaddingBottom: =7
         PaddingLeft: =32
@@ -681,7 +681,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =RGBA(0, 0, 0, 0)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(0, 0, 0, 0)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
+        Items: =Filter('Discussion List', Discussion_Topic = ListBox1.Selected.'Discussion Topic')
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
@@ -775,7 +775,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
+        Items: =Filter('Discussion List', Discussion_Topic = ListBox1.Selected.'Discussion Topic')
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
@@ -806,7 +806,7 @@ Tabletdiscussion As screen:
         HoverBorderColor: =ColorFade(RGBA(0, 120, 212, 1), -30%)
         HoverColor: =RGBA(51, 51, 51, 1)
         HoverFill: =RGBA(212, 212, 212, 1)
-        Items: =Filter('Discussion List', 'Discussion Topic' = ListBox1.Selected.Default)
+        Items: =Filter('Discussion List', Discussion_Topic = ListBox1.Selected.'Discussion Topic')
         LineHeight: =1.13
         PaddingBottom: =6
         PaddingLeft: =6
