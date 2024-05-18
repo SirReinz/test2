@@ -1,7 +1,11 @@
 {
   "ClientPerFileChecksums": {
     ".gitignore": "C8_VaC8EcEG56Ufcy1DFyC8Ky19iV9xSsXMDIAcmF2GTj8=",
+<<<<<<< HEAD
     "AppCheckerResult.sarif": "C8_l3FujAplH0nCViMYoc4Qdm1tWfVeFUrCbZ2EC5QGsrg=",
+=======
+    "AppCheckerResult.sarif": "C8_eZr7Xox2OXZYA962KqDRJCVNwhtJkHw2C15PPvpnL6I=",
+>>>>>>> parent of 67484e1 (Commit)
     "Assets\\Images\\0001.png": "C8_EFNewQ32HqxYjM9T6fDYQtwgBLSN1f6LdJJrBkL9cxI=",
     "Assets\\Images\\0002.png": "C8_S42YdePh/KBZHbsQUdFSC5XWCnqCX/kCUrvuaQP84Qw=",
     "Assets\\Images\\0003.png": "C8_Z1eGHmxcVAe7yClxGmk+SmI6sQB+IFp5/yPCryHfgw0=",
@@ -51,6 +55,7 @@
     "Assets\\Images\\0047.png": "C8_5cLqeVFSNkYfG2ahL6z9Y+kaKZRxiS5BXwnD/LG4eJw=",
     "Assets\\Images\\2d717c15-de03-4f90-8d01-c669a8a8bd17.png": "C8_kq/iMoOSuKluYy6IRMv1UUCQoLcWUrrCKjGS5gxpXBg=",
     "Assets\\Images\\dab50a0d-31b7-4498-8c55-c873e6c4f66d.png": "C8_ldwfyN/tShqoeguimUGQFcthzPFIvjGR4VEF+V28c70=",
+<<<<<<< HEAD
     "Components\\4.json": "C8_Rdja0MzmvZTUpfG4zP0G2Un03K5By3zKToRPBoBivSU=",
     "ComponentsMetadata.json": "C8_uOpw8JtQ3CChHNPKF79EeUNSC3y//4DbjztPZp6N730=",
     "Controls\\1.json": "C8_6RVZiL+rGamJDayymGbLPOLnsorNdG5m9VsAl/nU4lQ=",
@@ -66,14 +71,38 @@
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
     "References\\Resources.json": "C8_kivz97Ic+0NeTW+Qr/obJjH+2yeOJPSBVHef7wJGkQM=",
     "References\\Templates.json": "C8_gYbh5F19jN0XUo92hkIMd/J/T1L12VKelBEy2309Gbs=",
+=======
+    "Components\\4.json": "C8_KqgHxzoOlnOO3sj49D2iEQxLS400rc1eqBD/0TGRhSA=",
+    "ComponentsMetadata.json": "C8_uOpw8JtQ3CChHNPKF79EeUNSC3y//4DbjztPZp6N730=",
+    "Controls\\1.json": "C8_6RVZiL+rGamJDayymGbLPOLnsorNdG5m9VsAl/nU4lQ=",
+    "Controls\\113.json": "C8_baPkLOJU4OrZJjXtTV89vl/B3UZWWrG1SFQV1nSQEyw=",
+    "Controls\\142.json": "C8_BprbOdPRhYm3H6tubf3zrREqEHN/YftGbIEqTWaZZUQ=",
+    "Controls\\30.json": "C8_+PbnnE9IcDuuPYP+fI1X8idLTTCgfEA2H6gz7+NYUeY=",
+    "Controls\\5.json": "C8_VGbEh9U4qks1Cc/0C+tCekyNMdFODAOnel4fWxmfUGE=",
+    "Controls\\58.json": "C8_TqCS54DHUJvByWnzKWhKMnHmnjzb0GBIH2PyqErhS7A=",
+    "Controls\\99.json": "C8_mWGVc/jVNqEsMF72w7amJZ3bDZ4b0YSz2RJefCbZhfg=",
+    "Header.json": "C8_rAH15cNGN553kv4W5VPBcnQY7UkKCYBDAKO5G2tuwDM=",
+    "Properties.json": "C8_f7tkeLTSXDu2raEyUsFK9P1zx1L9c8zMqrb1B3UZpRQ=",
+    "References\\DataSources.json": "C8_opgPoQIpvW8D534XApmRUS9tFvQReFXxVhkaB/Uf3a4=",
+    "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
+    "References\\Resources.json": "C8_vFWrElI8fGogic+dvR96xbM7ABMI7qBo7XTDhOy0iOg=",
+    "References\\Templates.json": "C8_ubbx7Z0kCCog3y6/3ZSNL59JYLcbLktYsG8fWpI1vyw=",
+>>>>>>> parent of 67484e1 (Commit)
     "References\\Themes.json": "C8_GAeHHhiSgLtgiVcP3Ju6mwusNkZBcEU589EyG8d9EFg=",
     "Resources\\logo.jpg": "C8_+cqu+SePk7pEP66LfRjOFmP0MASOi4VI995cdxnWMgk=",
     "Resources\\PublishInfo.json": "C8_PGMhAurAql5UrS/QHmgEoUQdwj5busX0NEo2M1kw8LY="
   },
+<<<<<<< HEAD
   "ClientStampedChecksum": "C8_NL7GwcmCtNDTUJa71bcQpVXqJf4uvKr3jpG1BRW8N2U=",
   "ServerPerFileChecksums": {
     ".gitignore": "C8_VaC8EcEG56Ufcy1DFyC8Ky19iV9xSsXMDIAcmF2GTj8=",
     "AppCheckerResult.sarif": "C8_l3FujAplH0nCViMYoc4Qdm1tWfVeFUrCbZ2EC5QGsrg=",
+=======
+  "ClientStampedChecksum": "C8_ogfnVIVweFxhachEZVgHnyWfHjh1yMc5LZ4bSPbHZyk=",
+  "ServerPerFileChecksums": {
+    ".gitignore": "C8_VaC8EcEG56Ufcy1DFyC8Ky19iV9xSsXMDIAcmF2GTj8=",
+    "AppCheckerResult.sarif": "C8_eZr7Xox2OXZYA962KqDRJCVNwhtJkHw2C15PPvpnL6I=",
+>>>>>>> parent of 67484e1 (Commit)
     "Assets\\Images\\0001.png": "C8_EFNewQ32HqxYjM9T6fDYQtwgBLSN1f6LdJJrBkL9cxI=",
     "Assets\\Images\\0002.png": "C8_S42YdePh/KBZHbsQUdFSC5XWCnqCX/kCUrvuaQP84Qw=",
     "Assets\\Images\\0003.png": "C8_Z1eGHmxcVAe7yClxGmk+SmI6sQB+IFp5/yPCryHfgw0=",
@@ -123,6 +152,7 @@
     "Assets\\Images\\0047.png": "C8_5cLqeVFSNkYfG2ahL6z9Y+kaKZRxiS5BXwnD/LG4eJw=",
     "Assets\\Images\\2d717c15-de03-4f90-8d01-c669a8a8bd17.png": "C8_kq/iMoOSuKluYy6IRMv1UUCQoLcWUrrCKjGS5gxpXBg=",
     "Assets\\Images\\dab50a0d-31b7-4498-8c55-c873e6c4f66d.png": "C8_ldwfyN/tShqoeguimUGQFcthzPFIvjGR4VEF+V28c70=",
+<<<<<<< HEAD
     "Components\\4.json": "C8_Rdja0MzmvZTUpfG4zP0G2Un03K5By3zKToRPBoBivSU=",
     "ComponentsMetadata.json": "C8_uOpw8JtQ3CChHNPKF79EeUNSC3y//4DbjztPZp6N730=",
     "Controls\\1.json": "C8_6RVZiL+rGamJDayymGbLPOLnsorNdG5m9VsAl/nU4lQ=",
@@ -138,9 +168,30 @@
     "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
     "References\\Resources.json": "C8_kivz97Ic+0NeTW+Qr/obJjH+2yeOJPSBVHef7wJGkQM=",
     "References\\Templates.json": "C8_gYbh5F19jN0XUo92hkIMd/J/T1L12VKelBEy2309Gbs=",
+=======
+    "Components\\4.json": "C8_KqgHxzoOlnOO3sj49D2iEQxLS400rc1eqBD/0TGRhSA=",
+    "ComponentsMetadata.json": "C8_uOpw8JtQ3CChHNPKF79EeUNSC3y//4DbjztPZp6N730=",
+    "Controls\\1.json": "C8_6RVZiL+rGamJDayymGbLPOLnsorNdG5m9VsAl/nU4lQ=",
+    "Controls\\113.json": "C8_baPkLOJU4OrZJjXtTV89vl/B3UZWWrG1SFQV1nSQEyw=",
+    "Controls\\142.json": "C8_BprbOdPRhYm3H6tubf3zrREqEHN/YftGbIEqTWaZZUQ=",
+    "Controls\\30.json": "C8_+PbnnE9IcDuuPYP+fI1X8idLTTCgfEA2H6gz7+NYUeY=",
+    "Controls\\5.json": "C8_VGbEh9U4qks1Cc/0C+tCekyNMdFODAOnel4fWxmfUGE=",
+    "Controls\\58.json": "C8_TqCS54DHUJvByWnzKWhKMnHmnjzb0GBIH2PyqErhS7A=",
+    "Controls\\99.json": "C8_mWGVc/jVNqEsMF72w7amJZ3bDZ4b0YSz2RJefCbZhfg=",
+    "Header.json": "C8_rAH15cNGN553kv4W5VPBcnQY7UkKCYBDAKO5G2tuwDM=",
+    "Properties.json": "C8_f7tkeLTSXDu2raEyUsFK9P1zx1L9c8zMqrb1B3UZpRQ=",
+    "References\\DataSources.json": "C8_opgPoQIpvW8D534XApmRUS9tFvQReFXxVhkaB/Uf3a4=",
+    "References\\ModernThemes.json": "C8_KDQJ/3t27vgKx25iCQB/PGqxkWE34ZB7Eyb+RxNxY0k=",
+    "References\\Resources.json": "C8_vFWrElI8fGogic+dvR96xbM7ABMI7qBo7XTDhOy0iOg=",
+    "References\\Templates.json": "C8_ubbx7Z0kCCog3y6/3ZSNL59JYLcbLktYsG8fWpI1vyw=",
+>>>>>>> parent of 67484e1 (Commit)
     "References\\Themes.json": "C8_GAeHHhiSgLtgiVcP3Ju6mwusNkZBcEU589EyG8d9EFg=",
     "Resources\\logo.jpg": "C8_+cqu+SePk7pEP66LfRjOFmP0MASOi4VI995cdxnWMgk=",
     "Resources\\PublishInfo.json": "C8_PGMhAurAql5UrS/QHmgEoUQdwj5busX0NEo2M1kw8LY="
   },
+<<<<<<< HEAD
   "ServerStampedChecksum": "C8_NL7GwcmCtNDTUJa71bcQpVXqJf4uvKr3jpG1BRW8N2U="
+=======
+  "ServerStampedChecksum": "C8_ogfnVIVweFxhachEZVgHnyWfHjh1yMc5LZ4bSPbHZyk="
+>>>>>>> parent of 67484e1 (Commit)
 }
