@@ -5,6 +5,7 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "18% Completed 50% Expected_1": 151,
     "2024 technology_1": 161,
     "Add button": 93,
@@ -338,6 +339,173 @@
   "FunctionParamsInvariantScriptsOnInstances": {},
   "HeaderLastSavedDateTimeUTC": "05/16/2024 07:01:54",
 >>>>>>> parent of 67484e1 (Commit)
+=======
+    "18% Completed 50% Expected_1": 129,
+    "2024 technology_1": 139,
+    "Add button": 79,
+    "App": 1,
+    "Auto Detected Progress_1": 124,
+    "Click the image! 1": 46,
+    "Click to search!": 26,
+    "Component1": 4,
+    "current project": 44,
+    "Current project 1": 146,
+    "Current Project 1": 49,
+    "Current Project discussions": 68,
+    "Current project page 1": 144,
+    "Currently searching: N/A": 16,
+    "defaultText_Label": 72,
+    "discussion": 45,
+    "Discussion 2024": 74,
+    "Discussion 2025": 48,
+    "Discussion main page": 60,
+    "Ellipse 1_5": 59,
+    "Ellipse 1_6": 6,
+    "Ellipse 1_7": 114,
+    "Ellipse 1_8": 143,
+    "Ellipse 1_9": 31,
+    "Ellipse 5": 80,
+    "Ellipse 5_1": 77,
+    "Estimated Delay: 3 days_1": 131,
+    "fail_text": 107,
+    "Filters": 17,
+    "Fix errors before proceeding_1": 135,
+    "Go Back ➤_4": 38,
+    "Go Back ➤_5": 121,
+    "Go Back ➤_6": 13,
+    "Go Back ➤_7": 152,
+    "Go Back ➤_8": 85,
+    "goBack_Button_4": 36,
+    "goBack_Button_5": 119,
+    "goBack_Button_6": 11,
+    "goBack_Button_7": 150,
+    "goBack_Button_8": 84,
+    "goBack_Group_4": 57,
+    "goBack_Group_5": 141,
+    "goBack_Group_6": 29,
+    "goBack_Group_7": 162,
+    "goBack_Group_8": 98,
+    "Group 1 1": 112,
+    "Group 2 6": 102,
+    "Group 3 1": 61,
+    "Group 3 1_1": 145,
+    "Group 3 1_3": 7,
+    "Group 3 1_4": 32,
+    "Group 3 1_5": 115,
+    "Group 3 2": 73,
+    "Group 3 2_2": 138,
+    "Header 1": 101,
+    "headerRight_group_5": 97,
+    "headerRight_group_6": 28,
+    "headerRight_group_7": 140,
+    "headerRight_group_8": 161,
+    "headerRight_group_9": 56,
+    "Hello, 1_10": 8,
+    "Hello, 1_11": 116,
+    "Hello, 1_12": 148,
+    "Hello, 1_13": 33,
+    "Hello, 1_9": 81,
+    "Host": 3,
+    "Icons": 42,
+    "image 1": 53,
+    "image 2": 55,
+    "image 3": 54,
+    "Image1": 82,
+    "Image2_6": 12,
+    "Image2_7": 120,
+    "Image2_8": 151,
+    "Image2_9": 37,
+    "Input Label": 18,
+    "Inquiries_ 1": 110,
+    "Line 2 (1) 1": 111,
+    "Line 2 1": 106,
+    "Line 3 (1) 1_3": 87,
+    "Line 3 (1) 1_4": 154,
+    "Line 3 (1) 1_6": 15,
+    "Line 3 (1) 1_7": 41,
+    "Line 3 (1) 1_8": 123,
+    "Line 4": 21,
+    "ListBox1": 92,
+    "ListBox1_test": 91,
+    "Login 1": 105,
+    "logout_Button_5": 86,
+    "logout_Button_6": 14,
+    "logout_Button_7": 122,
+    "logout_Button_8": 153,
+    "logout_Button_9": 39,
+    "message_input": 95,
+    "message_ListBox": 90,
+    "Microphone": 76,
+    "msft_Button_1": 96,
+    "msft_Button_17": 52,
+    "msft_Button_18": 50,
+    "msft_Button_19": 51,
+    "msft_Button_2": 94,
+    "msft_Button_20": 40,
+    "msft_Button_21": 130,
+    "msft_Button_22": 132,
+    "msft_Button_23": 134,
+    "msft_Button_24": 136,
+    "msft_Button_25": 137,
+    "msft_Button_4": 93,
+    "msft_Button_8": 159,
+    "msft_Button_9": 160,
+    "msft_Checkbox": 157,
+    "msft_Label_5": 83,
+    "msft_Label_6": 10,
+    "msft_Label_7": 118,
+    "msft_Label_8": 149,
+    "msft_Label_9": 35,
+    "msft_ListBox_3": 158,
+    "msft_ListBox_4": 27,
+    "msft_Slider_1": 127,
+    "name_ListBox": 89,
+    "Next Task:_1": 133,
+    "onwards_button": 108,
+    "outline-australia-map-on-white-background-vector 1": 100,
+    "Page": 155,
+    "password_input": 104,
+    "Please Select a Discussion topic to view discussion": 71,
+    "Polygon 1 1": 109,
+    "Project overview": 69,
+    "Recent searches": 25,
+    "Rectangle 10": 66,
+    "Rectangle 11": 67,
+    "Rectangle 22": 147,
+    "Rectangle 28_1": 128,
+    "Rectangle 35_1": 126,
+    "Rectangle 5": 64,
+    "Rectangle 7": 70,
+    "Rectangle 8": 65,
+    "Rectangle 8_1": 62,
+    "Rectangle 8_2": 63,
+    "Rectangle 9": 75,
+    "Robot Peter 1_1": 117,
+    "Search_TextInput": 20,
+    "String-label": 156,
+    "Submit_Button": 22,
+    "Tabletdiscussion": 58,
+    "Tabletlogin": 99,
+    "Tabletproject_1": 113,
+    "Tabletselection": 142,
+    "Tablettoolbox": 30,
+    "Tabletwarehouse": 5,
+    "time_ListBox": 88,
+    "Toolbox 1": 34,
+    "Type_Dropdown": 19,
+    "Use case_Dropdown": 24,
+    "username_input": 103,
+    "warehouse": 43,
+    "warehouse 1": 23,
+    "Warehouse 1": 47,
+    "Warehouse 2": 9,
+    "What would you like to do?_1": 125,
+    "\uD83C\uDF99️": 78
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "05/16/2024 07:01:54",
+>>>>>>> parent of 67484e1 (Commit)
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {
     "ee01e1d5-5b48-4a53-995b-a5b29a9e68c2": "\"/providers/microsoft.powerapps/apis/shared_sharepointonline/connections/00969b859d5144c082332e81566805a8\""
@@ -396,6 +564,7 @@
   },
   "LocalResourceRootPaths": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "Discussion": "https://docserverpwaprodseau.blob.core.windows.net/e6a0ed98-a9fb-4453-b9a9-1ce7450e8053-1/resource/Assets0Images02d717c15-de03-4f90-8d01-c669a8a8bd17.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-18T00%3A54%3A54Z&ske=2024-05-19T01%3A09%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-19T01%3A09%3A54Z&sr=b&sp=r&sig=h41mjTYf0jla5p391vnkHAEH%2FuoTrvysGRkJBVoI6yo%3D",
     "image270720": "https://docserverpwaprodseau.blob.core.windows.net/e6a0ed98-a9fb-4453-b9a9-1ce7450e8053-1/resource/Assets0Images00001.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-18T00%3A54%3A54Z&ske=2024-05-19T01%3A09%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-19T01%3A09%3A54Z&sr=b&sp=r&sig=bXWIKNO5%2Bx1iYluoUl6dRscV4T2GYr0VYHzI%2FO4lJzM%3D",
     "image270721": "https://docserverpwaprodseau.blob.core.windows.net/e6a0ed98-a9fb-4453-b9a9-1ce7450e8053-1/resource/Assets0Images00002.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-18T00%3A54%3A54Z&ske=2024-05-19T01%3A09%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-19T01%3A09%3A54Z&sr=b&sp=r&sig=n2%2F1y%2F3SVhFyUM8SJZBoObedm9%2F1SULIKEwl1MezgRo%3D",
@@ -446,6 +615,8 @@
     "image2741568": "https://docserverpwaprodseau.blob.core.windows.net/e6a0ed98-a9fb-4453-b9a9-1ce7450e8053-1/resource/Assets0Images00047.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-18T00%3A54%3A54Z&ske=2024-05-19T01%3A09%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-19T01%3A09%3A54Z&sr=b&sp=r&sig=35kqzztlnhVtRPCZqgj8Ani5eepkUEi%2F73kHbwZNIk4%3D",
     "Logout": "https://docserverpwaprodseau.blob.core.windows.net/e6a0ed98-a9fb-4453-b9a9-1ce7450e8053-1/resource/Assets0Images0dab50a0d-31b7-4498-8c55-c873e6c4f66d.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-18T00%3A54%3A54Z&ske=2024-05-19T01%3A09%3A54Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-19T01%3A09%3A54Z&sr=b&sp=r&sig=Pno4JwhOhpkb%2FySTnztF9lFpG3PGBCWhY6TGVIrhVQI%3D"
 =======
+=======
+>>>>>>> parent of 67484e1 (Commit)
     "Discussion": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images02d717c15-de03-4f90-8d01-c669a8a8bd17.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A49Z&ske=2024-05-17T07%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A49Z&sr=b&sp=r&sig=FiGXVA4TI1W7GabWK%2BaS8PQ4Q%2BV9ffNi9ij2LFsFeoI%3D",
     "image270720": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images00001.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A48Z&ske=2024-05-17T07%3A10%3A48Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A48Z&sr=b&sp=r&sig=OUw1asbaKd5uqgVlAvJvhPb4tMZL2Fepka24xo34pUU%3D",
     "image270721": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images00002.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A48Z&ske=2024-05-17T07%3A10%3A48Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A48Z&sr=b&sp=r&sig=MwP81UxbDadVMH1vL88%2B6FGeqLaAQRpOcVXshkIqPNY%3D",
@@ -495,6 +666,9 @@
     "image2733544": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images00046.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A48Z&ske=2024-05-17T07%3A10%3A48Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A48Z&sr=b&sp=r&sig=QrGXWADbfxpoKKnOEPbqzXI2DF4iOSSRdJsYI68FgTk%3D",
     "image2741568": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images00047.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A48Z&ske=2024-05-17T07%3A10%3A48Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A48Z&sr=b&sp=r&sig=RZ9pdXayDoOfVF6%2Be8kddzXXNuz0O9vw38%2Bstunw0vc%3D",
     "Logout": "https://docserverpwaprodseau.blob.core.windows.net/0f348d32-4da5-4639-b543-970157ac087f-1/resource/Assets0Images0dab50a0d-31b7-4498-8c55-c873e6c4f66d.png?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-05-16T06%3A55%3A49Z&ske=2024-05-17T07%3A10%3A49Z&sks=b&skv=2023-01-03&sv=2023-01-03&spr=https&se=2024-05-17T07%3A10%3A49Z&sr=b&sp=r&sig=RoV8%2Bm3Kmx2OLaVC3TclLWfNyw13HXNLVJ%2FXuhkHPXc%3D"
+<<<<<<< HEAD
+>>>>>>> parent of 67484e1 (Commit)
+=======
 >>>>>>> parent of 67484e1 (Commit)
   },
   "OldLogoFileName": "logo.jpg",
@@ -577,6 +751,7 @@
   "OrderXMLTemplate": {
     "button": 2,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "checkbox": 8,
     "dropdown": 4,
     "groupContainer": 3,
@@ -592,10 +767,20 @@
     "groupContainer": 7,
     "image": 0,
     "label": 1,
+=======
+    "checkbox": 9,
+    "dropdown": 3,
+    "groupContainer": 7,
+    "image": 0,
+    "label": 1,
+>>>>>>> parent of 67484e1 (Commit)
     "listbox": 6,
     "rectangle": 5,
     "slider": 8,
     "text": 4
+<<<<<<< HEAD
+>>>>>>> parent of 67484e1 (Commit)
+=======
 >>>>>>> parent of 67484e1 (Commit)
   },
   "OverridablePropertiesEntry": {
@@ -807,6 +992,7 @@
     "goBack_Button_7": 100,
     "goBack_Button_8": 138,
 <<<<<<< HEAD
+<<<<<<< HEAD
     "goBack_Group": 139,
     "goBack_Group_4": 20,
     "goBack_Group_5": 67,
@@ -815,6 +1001,10 @@
 =======
     "goBack_Group_4": 16,
     "goBack_Group_5": 67,
+=======
+    "goBack_Group_4": 16,
+    "goBack_Group_5": 67,
+>>>>>>> parent of 67484e1 (Commit)
     "goBack_Group_6": 43,
     "goBack_Group_7": 101,
     "goBack_Group_8": 139,
@@ -992,7 +1182,11 @@
   "TemplateVersions": {},
   "VolatileProperties": {
 <<<<<<< HEAD
+<<<<<<< HEAD
     "AnalysisLoadTime": 1.3711127,
+=======
+    "AnalysisLoadTime": 1.5665626,
+>>>>>>> parent of 67484e1 (Commit)
 =======
     "AnalysisLoadTime": 1.5665626,
 >>>>>>> parent of 67484e1 (Commit)
@@ -1012,7 +1206,11 @@
       "text": 4
     },
 <<<<<<< HEAD
+<<<<<<< HEAD
     "DeserializationLoadTime": 4.7731075
+=======
+    "DeserializationLoadTime": 5.6424305
+>>>>>>> parent of 67484e1 (Commit)
 =======
     "DeserializationLoadTime": 5.6424305
 >>>>>>> parent of 67484e1 (Commit)
